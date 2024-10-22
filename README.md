@@ -1,2 +1,2 @@
 # pythonkodlari
-Project euler web sitesindeki 11 projenin çözümü
+Project euler web sitesindeki ilk 11 projenin çözümü
